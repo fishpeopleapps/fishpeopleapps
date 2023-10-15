@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kimmy Brewer @fishpeopleapps
-- 👀 I’m interested in iOS Development, and programming in general :) 
-- 🌱 I’m currently learning SwiftUI, Python, Azure - then: C#, Unity, SQL
+- 👀 I’m interested in iOS Development, Web Development, and programming in general :) 
+- 🌱 I’m currently learning SwiftUI, PHP, Javascript, C# - then: mySQL, Unity
 - 🖌️ My first iOS App is on the AppStore (March 2023). It's called "DrawWhat?" 
-- 💞️ I’m graduating with my Bachelor of Science Degree in Computer Science in October! 
+- 💞️ I graduated with my Bachelor of Science Degree in Computer Science in October! 
 - 📫 How to reach me kimberlymotyka27@gmail.com
 
 <!---

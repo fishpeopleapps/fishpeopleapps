@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kimmy Brewer @fishpeopleapps
 - 👀 I’m interested in iOS Development, Web Development, and programming in general :) 
-- 🌱 I landed my first development job as a Wiki Developer for USSF in October!
-- 💞️ I graduated with my Bachelor of Science Degree in Computer Science in October! 
+- 🌱 I landed my first development job as a Wiki Developer for USSF in October, 2023!
+- 💞️ I graduated with my Bachelor of Science Degree in Computer Science in October, 2023! 
 - 🖌️ My first iOS App is on the AppStore (March 2023). It's called "DrawWhat?" 
 - 📫 How to reach me fishpeopleapplications@gmail.com
 
